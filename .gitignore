@@ -1,5 +1,15 @@
 
+# Python
 *.py
-*.pem
-*.log
 __pycache__/
+*.py[cod]
+
+# Certs
+*.pem
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
